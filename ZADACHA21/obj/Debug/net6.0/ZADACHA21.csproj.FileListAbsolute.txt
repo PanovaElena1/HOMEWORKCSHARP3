@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\bin\Debug\net6.0\ZADACHA21.exe
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\bin\Debug\net6.0\ZADACHA21.deps.json
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\bin\Debug\net6.0\ZADACHA21.runtimeconfig.json
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\bin\Debug\net6.0\ZADACHA21.dll
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\bin\Debug\net6.0\ZADACHA21.pdb
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.AssemblyInfo.cs
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.dll
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\refint\ZADACHA21.dll
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.pdb
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ZADACHA21.genruntimeconfig.cache
+C:\Users\1\Desktop\Домашние задания GB\C#\Seminar3\ZADACHA21\obj\Debug\net6.0\ref\ZADACHA21.dll
